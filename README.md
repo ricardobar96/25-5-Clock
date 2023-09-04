@@ -38,4 +38,4 @@ If you have any doubts, consult [this](https://www.dataschool.io/how-to-contribu
 <br>
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
