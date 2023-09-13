@@ -24,7 +24,7 @@ If you want to contribute to this proyect, follow these steps:
 1. Fork the repository.
 3. Clone your fork.
 4. Check that your fork is the "origin" remote.
-5. Add the project repository as the "upstream" remote using `git remote add upstream https://github.com/ricardobar96/Hangman-Game.git`.
+5. Add the project repository as the "upstream" remote using `git remote add upstream https://github.com/ricardobar96/25-5-Clock.git`.
 6. Pull the latest changes from upstream into your local repository using `git pull upstream master`.
 7. Create a new branch using `git checkout -b BRANCH_NAME`.
 8. Make your changes and commit them: `git commit -m 'DESCRIPTION OF CHANGES'`.
