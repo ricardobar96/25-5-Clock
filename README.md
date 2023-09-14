@@ -8,7 +8,7 @@ When the timer is running, the user could see the remaining time in mm:ss format
 When a session countdown reaches zero and a new countdown begins, a string will indicate that a break has begun, and vice versa. Also, a sound indicating that time is up will play to alert the user, but it will stop playing and be rewound to the beginning when the "Reset" button is pressed or after waiting one second.
 <br>
 <br>
-The user cand increment and decrement any time the duration of the session or break in course, aside from resetting the countdown with the "Reset" button.
+The user cand increment and decrement any time the duration of the current session or break, aside from resetting the countdown with the "Reset" button. However, a session or break can't last more than 60 minutes or less than 1 minute.
 
 <br>
 
