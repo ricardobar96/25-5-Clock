@@ -1,9 +1,14 @@
 # 25-5-Clock
 App created mainly with JavaScript which functions as a Pomodoro Tracker, allowing the user to set alarms for session and break time as a real clock.
-
----------------------------------------------
-
-App creada principalmente con JavaScript que funciona como un Reloj Pomodoro, permitiendo al usuario definir alarmas para tiempo de trabajo y descanso como un reloj real.
+<br>
+<br>
+When the timer is running, the user could see the remaining time in mm:ss format (decrementing by a value of 1 and updating the display every 1000ms). Pressing the "Start" button allows the user to stop the countdown and resume it from the point at which it was paused when pressed again.
+<br>
+<br>
+When a session countdown reaches zero and a new countdown begins, a string will indicate that a break has begun, and vice versa. Also, a sound indicating that time is up will play to alert the user, but it will stop playing and be rewound to the beginning when the "Reset" button is pressed or after waiting one second.
+<br>
+<br>
+The user cand increment and decrement any time the duration of the session or break in course, aside from resetting the countdown with the "Reset" button.
 
 <br>
 
