@@ -19,7 +19,7 @@ The user cand increment and decrement any time the duration of the current sessi
 
 ## Screenshots
 
-![clock](https://github.com/ricardobar96/25-5-Clock/assets/73242474/13116f12-6907-44cf-9091-ca304fc9c717)
+![clock](images/clock.png)
 
 <br>
 
